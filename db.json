@@ -1,0 +1,60 @@
+{
+  
+
+  "posts": [
+    {
+      "id": 0,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  
+  
+    "campsites": {
+      "0": {
+        "name": "React Lake Campground",
+        "image": "reactLakeImg.jpg",
+        "elevation": 1233,
+        "featured": false,
+        "description": "Nestled in the foothills of the Chrome Mountains, this campground on the shores of the pristine React Lake is a favorite for fly fishers."
+      },
+      "1": {
+        "name": "Chrome River Campground",
+        "image": "chromeRiverImg.jpg",
+        "elevation": 877,
+        "featured": false,
+        "description": "Spend a few sunny days and starry nights beneath a canopy of old-growth firs at this enchanting spot by the Chrome River."
+      },
+      "2": {
+        "name": "Breadcrumb Trail Campground",
+        "image": "breadCrumbImg.jpg",
+        "elevation": 2901,
+        "featured": false,
+        "description": "Let NuCamp be your guide to this off-the-beaten-path, hike-in-only campground."
+      },
+      "3": {
+        "name": "Redux Woods Campground",
+        "image": "reduxWoodsImg.jpg",
+        "elevation": 42,
+        "featured": true,
+        "description": "You'll never want to leave this hidden gem, deep within the lush Redux Woods."
+      }
+    },
+  
+  
+  
+  
+
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+
+
+}
